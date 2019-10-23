@@ -12,6 +12,6 @@ public class MyTest {
         System.out.println("rqrq");
         System.out.println("主要");
         System.out.println("bug来了");
-        System.out.println("更多bug来了...");
+        System.out.println("越来越多的bug...");
     }
 }
